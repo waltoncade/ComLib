@@ -1,0 +1,173 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0530470310
+D CONN HEADER 3POS 1.25MM VERT TIN
+F http://docs-emea.rs-online.com/webdocs/1362/0900766b81362bef.pdf
+$ENDCMP
+#
+$CMP A-2004-2-4-LPS-N-R
+D CONN MOD JACK 8P8C R/A SHIELDED
+F http://www.assmann-wsw.com/fileadmin/datasheets/ASS_7323_CO.pdf
+$ENDCMP
+#
+$CMP AO3414
+D Trans MOSFET N-CH 20V 3A 3-Pin SOT-23
+F https://static6.arrow.com/aropdfconversion/67ac6f06d2170690d71560ead25e52fb73b77ec0/ao3414.pdf
+$ENDCMP
+#
+$CMP ATSAME51J18A-MU
+D ARM Microcontrollers - MCU 120MHZ 256KB FLASH 6 4 QFN PKG 85C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-D5xE5x-Family-Datasheet-01507B.pdf
+$ENDCMP
+#
+$CMP ATSAME51J20A-AU
+D MICROCHIP - ATSAME51J20A-AU - MCU, ARM CORTEX-M4F, 120MHZ, TQFP-64
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-D5xE5x-Family-Datasheet-01507B.pdf
+$ENDCMP
+#
+$CMP ECS-120-20-4
+D Crystals 12MHz 20pF HC-49US
+F https://ecsxtal.com/store/pdf/hc_49us.pdf
+$ENDCMP
+#
+$CMP ENC424J600-I_PT
+D 10/100 Ethernet Control.,ENC424J600-I/PT
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf
+$ENDCMP
+#
+$CMP FE1.1S
+D USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER
+F https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf
+$ENDCMP
+#
+$CMP GRM21BC81D106KE51L
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 10uF 20volts *Derate Voltage/Temp
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP LF347N
+D Quad General-Purpose JFET-input Operational Amplifier
+F http://www.ti.com/lit/ds/symlink/lf347-n.pdf
+$ENDCMP
+#
+$CMP MGSF1N03LT1G
+F http://www.onsemi.com/pub/Collateral/MGSF1N03LT1-D.PDF
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PJ-031DH
+D DC Power Connectors Power Jacks
+F https://www.cui.com/product/resource/pj-031dh.pdf
+$ENDCMP
+#
+$CMP PJ-037A
+D DC Power Connectors Power Jacks
+F https://www.mouser.com/datasheet/2/670/pj-037a-1312287.pdf
+$ENDCMP
+#
+$CMP PJ-102A
+D DC Power Connectors Power Jacks
+F https://www.cui.com/product/resource/pj-102a.pdf
+$ENDCMP
+#
+$CMP RC0805FR-0710KL
+D GENERAL PURPOSE CHIP RESISTORS
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RK73B2ATTD221J
+D KOA Thick Film Surface Mount Resistor 0805 Case 220 +/-5% 0.25W +/-200ppm/C
+F https://componentsearchengine.com/Datasheets/1/RK73B2ATTD221J.pdf
+$ENDCMP
+#
+$CMP RK73H2ATTD2701F
+D Resistor Thick Film 2.7K 1% SMD 0805
+F http://www.koaspeer.com/catimages/Products/RK73H/RK73H.pdf
+$ENDCMP
+#
+$CMP RN73C2A8K87BTD
+D Thin Film Resistors - SMD RN 0805 8K87 0.1% 10PPM 5KRL
+F http://docs-europe.electrocomponents.com/webdocs/1488/0900766b814885e5.pdf
+$ENDCMP
+#
+$CMP STM32F103C8T6
+D STM32F103C8T6, 32 bit ARM Cortex M3 Microcontroller 72MHz 64kb Flash, 20kb RAM, USB I2C SPI 48-Pin LQFP
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf
+$ENDCMP
+#
+$CMP TL2201EEYA
+D Tactile Switches DPDT .1A 30V
+F https://www.e-switch.com/system/asset/product_line/data_sheet/61/TL2201.pdf
+$ENDCMP
+#
+$CMP TST-110-01-G-D
+D 20 Position, Shrouded PCB Headers, 0.100&quot; pitch
+F http://suddendocs.samtec.com/prints/tst-1xx-xx-x-x-xx-xx-mkt.pdf
+$ENDCMP
+#
+$CMP UA7808CKTTR
+D 1.5-A, 40-V, Fixed Positive Linear Regulators
+F http://www.ti.com/lit/gpn/ua78
+$ENDCMP
+#
+$CMP USB-A1HSW6
+D USB - A Receptacle Connector 4 Position Through Hole, Right Angle
+F http://www.on-shore.com/wp-content/uploads/2015/09/usb-a1hsxx.pdf
+$ENDCMP
+#
+$CMP USB-B1HSB6
+D USB - B Receptacle Connector 4 Position Through Hole, Right Angle
+F http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf
+$ENDCMP
+#
+$CMP VFHR1112H-3BY2A-TR
+D Standard LEDs - SMD Surface Mount LED
+F https://componentsearchengine.com/Datasheets/1/VFHR1112H-3BY2A-TR.pdf
+$ENDCMP
+#
+$CMP ZXMP6A13FTA
+D 60V P-CHANNEL ENHANCEMENT MODE MOSFET
+F https://www.diodes.com/assets/Datasheets/ZXMP6A13F.pdf
+$ENDCMP
+#
+$CMP ICL7660SCPAZ
+D Doubler DC-DC converter,ICL7660SCPA
+K
+F http://docs-emea.rs-online.com/webdocs/1384/0900766b81384aa7.pdf
+$ENDCMP
+#
+$CMP TB001-500-04BE
+D Fixed Terminal Blocks Terminal block, screw type, 5.00, horizontal, 4 poles, CUI Blue, slotted screw, PCB mount
+K
+F https://componentsearchengine.com/Datasheets/1/TB001-500-04BE.pdf
+$ENDCMP
+#
+$CMP 833H-1A-F-S-12VDC
+D General Purpose Relays 10A, General Purpose Relay
+K
+F https://eu.mouser.com/datasheet/2/378/20119191320287145-4912.pdf
+$ENDCMP
+#
+$CMP ULN2003AIN
+D Texas Instruments ULN2003AINE4, 7-element NPN Darlington Pair, 500 mA 50 V, 16-Pin PDIP
+K
+F http://uk.rs-online.com/web/p/products/7320887
+$ENDCMP
+#
+$CMP PWR220T-35-8R00F
+D Thick Film Resistors - Through Hole 8ohm 35W 1% TOL Thru Hole
+K
+F https://componentsearchengine.com/Datasheets/1/PWR220T-35-8R00F.pdf
+$ENDCMP
+#
+$CMP TB001-500-03BE
+D Fixed Terminal Blocks screw type, 5.00, horizontal, 3 poles, CUI Blue, slotted screw, PCB mount
+K
+F https://www.cuidevices.com/product/resource/tb001-500.pdf
+$ENDCMP
+#
+#End Doc Library
