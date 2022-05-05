@@ -170,4 +170,22 @@ K
 F https://www.cuidevices.com/product/resource/tb001-500.pdf
 $ENDCMP
 #
+$CMP ATSAM4LS8BA-AU
+D MCU 32-bit SAM4L ARM Cortex M4 RISC 512KB Flash 3.3V 64-Pin TQFP Tray
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42023-ARM-Microcontroller-ATSAM4L-Low-Power-LCD_Datasheet-Summary.pdf
+$ENDCMP
+#
+$CMP BQ32002D
+D Real-Time Clock (RTC)
+K
+F http://www.ti.com/lit/gpn/BQ32002
+$ENDCMP
+#
+$CMP LTST-C191KRKT
+D Standard LEDs - SMD Red Clear 631nm
+K
+F http://www.mouser.com/ds/2/239/S_110_LTST-C191KRKT-539838.pdf
+$ENDCMP
+#
 #End Doc Library

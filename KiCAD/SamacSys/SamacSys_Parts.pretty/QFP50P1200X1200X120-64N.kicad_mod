@@ -1,5 +1,5 @@
 (module "QFP50P1200X1200X120-64N" (layer F.Cu)
-  (descr "64 Pin TQFP")
+  (descr "TQFP 64_1")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference IC** (at 0 0) (layer F.SilkS)
@@ -89,7 +89,7 @@
   (pad 62 smd rect (at -2.75 -5.738 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 63 smd rect (at -3.25 -5.738 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 64 smd rect (at -3.75 -5.738 0) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\ComLib\\KiCAD\\SamacSys\\SamacSys_Parts.3dshapes\\ATSAME51J20A-AU.stp"
+  (model "C:\\ComLib\\KiCAD\\SamacSys\\SamacSys_Parts.3dshapes\\ATSAM4LS8BA-AU.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
