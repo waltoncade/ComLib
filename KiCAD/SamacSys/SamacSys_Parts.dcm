@@ -188,4 +188,58 @@ K
 F http://www.mouser.com/ds/2/239/S_110_LTST-C191KRKT-539838.pdf
 $ENDCMP
 #
+$CMP IS31FL3235A-QFLS2-TR
+D IC LED DRVR LINEAR 28CH 36QFN
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/fc33ded709b126955886d75954d536cb.pdf
+$ENDCMP
+#
+$CMP CL05A105KQ5NNNC
+D Samsung Electro-Mechanics 0402 CL 1uF Ceramic Multilayer Capacitor, 6.3 V, +85C, X5R Dielectric, +/-10% SMD
+K
+F https://altium.componentsearchengine.com/Datasheets/2/CL05A105KQ5NNNC.pdf
+$ENDCMP
+#
+$CMP CL05A104KA5NNNC
+D Samsung Electro-Mechanics 0402 CL 100nF Ceramic Multilayer Capacitor, 25 V, +85C, X5R Dielectric, +/-10% SMD
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2409293.pdf
+$ENDCMP
+#
+$CMP EXB-28V330JX
+D PANASONIC ELECTRONIC COMPONENTS - EXB28V330JX - RESISTOR,CVEX ARRAY,0402X4, 33R 5%
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf
+$ENDCMP
+#
+$CMP PT7C4563BQ1WEX
+D Real Time Clock Real Time Clock SO-8 T&R 2.5K
+K
+F https://www.diodes.com/assets/Datasheets/PT7C4563BQ.pdf
+$ENDCMP
+#
+$CMP CM8V-T1A-32.768kHz-4pF-20PPM-TA-QC_T3
+D CM8V-T1A Tuning Fork Crystal 32.768 kHz
+K
+F https://www.mouser.de/datasheet/2/530/CM8V_T1A-1510858.pdf
+$ENDCMP
+#
+$CMP MCP73831T-2DCI_OT
+D Charge Controller Li-Ion/Li-Pol
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP 150352M173300
+D Wurth Elektronik 150352M173300, WL-SFTW 470 (Blue) nm, 520 (Green) nm, 625 (Red) nm 3 RGB LED, 6-Pin 3528 Clear
+K
+F http://katalog.we-online.de/led/datasheet/150352M173300.pdf
+$ENDCMP
+#
+$CMP PCF85063AT_AY
+D Real Time Clock Low Power Real time clocks
+K
+F https://componentsearchengine.com/Datasheets/2/PCF85063AT_AY.pdf
+$ENDCMP
+#
 #End Doc Library
